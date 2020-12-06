@@ -1,5 +1,5 @@
-function App() {
+const app = () => {
   console.log('I am the entry component');
-}
+};
 
-App();
+app();
